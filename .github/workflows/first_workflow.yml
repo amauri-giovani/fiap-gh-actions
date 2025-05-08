@@ -1,5 +1,5 @@
 # Definindo o nome do workflow
-# name: Test Workflow
+name: Test Workflow
 
 # Definindo quando o workflows será disparado
 on:
